@@ -7,6 +7,9 @@ https://github.com/donnemartin/system-design-primer
 gigantic repository related to system design questions asked at various companies
 
 ## Algorithms
+https://leetcode.com/
+a website with thousands of algorythmic problems which allow u to try to code the algorithm in your browser and test if it works
+
 https://www.youtube.com/c/neetcode
 
 A youtuber with videos which explain many popular questions on https://leetcode.com/
