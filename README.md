@@ -33,7 +33,7 @@ books about site reliability engineering from Google
 
 https://www.coursera.org/learn/computer-networking
 
-Course from Google about networking, not so deep but a good overall, or for a begineer
+Course from Google about networking, not so deep but good in overall for a begineer
 
 #### Books
 _Andrew S. Tanenbaum - Modern Operating Systems_
