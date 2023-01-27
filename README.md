@@ -9,7 +9,7 @@ gigantic repository related to system design questions asked at various companie
 ## Algorithms
 https://leetcode.com/
 
-a website with thousands of algorythmic problems which allow u to try to code the algorithm in your browser and test if it works
+a website with thousands of algorithmic problems which allow u to try to code the algorithm in your browser and test if it works
 
 https://www.youtube.com/c/neetcode
 
