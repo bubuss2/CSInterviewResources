@@ -1,5 +1,5 @@
 # Computer Science Resources
-Personal repository with resources I found related to different areas in computer science, which helped me in interviews at FAANG and other companies.
+Personal repository with resources I found related to different areas in computer science.
 
 ## System Design
 https://github.com/donnemartin/system-design-primer
