@@ -1,7 +1,9 @@
 # Computer Science Resources
 Personal repository with resources I found related to different areas in computer science.
 
-## System Design
+## Software Engineering
+
+### System design
 https://github.com/donnemartin/system-design-primer
 
 gigantic repository related to system design questions asked at various companies
@@ -52,6 +54,10 @@ A playlist of lectures from Stanford about machine learning, teached by prof. An
 https://www.coursera.org/specializations/deep-learning
 
 course by prof. Andrew Ng, but for deep learning
+
+https://huggingface.co/learn/nlp-course/chapter1/1
+
+course about NLP and transformers
 
 ## Cybersecurity
 https://github.com/gracenolan/Notes
