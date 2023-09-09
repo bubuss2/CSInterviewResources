@@ -1,13 +1,13 @@
-Computer Science Resources
+# Computer Science Resources
 
 Personal repository with resources I found related to different areas in computer science.
-Software Engineering
-System design
+## Software Engineering
+### System design
 
 https://github.com/donnemartin/system-design-primer
 
 gigantic repository related to system design questions asked at various companies
-Algorithms
+### Algorithms
 
 https://leetcode.com/
 
@@ -20,7 +20,7 @@ a YouTuber with videos that explain many popular questions on https://leetcode.c
 https://neetcode.io/practice
 
 list of common algorithmic leetcode style problems curated by Neetcode
-Systems
+### Operating Systems
 
 https://github.com/alex/what-happens-when
 
@@ -35,7 +35,7 @@ https://sre.google/books/ books about site reliability engineering from Google
 https://www.coursera.org/learn/computer-networking
 
 A course from Google about networking is not so deep but overall good for a beginner.
-Books
+### Books
 
 Andrew S. Tanenbaum - Modern Operating Systems
 
@@ -44,7 +44,7 @@ an over 1000-page book that goes deeply into the mechanisms in OS's like CPU int
 Andrew S. Tanenbaum - Computer Networks
 
 similar to above, but for computer networks
-Machine Learning
+## Machine Learning
 
 https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
@@ -57,7 +57,7 @@ course by Prof.Andrew Ng, but for deep learning
 https://huggingface.co/learn/nlp-course/chapter1/1
 
 course about NLP and transformers
-Cybersecurity
+## Cybersecurity
 
 https://github.com/gracenolan/Notes
 
