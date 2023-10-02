@@ -50,6 +50,15 @@ https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfV
 
 A playlist of lectures from Stanford about machine learning, taught by Prof.Andrew Ng
 
+Course, more practical about ML
+https://www.fast.ai/
+
+A online book about deep learning
+http://neuralnetworksanddeeplearning.com/
+
+Sequential models:
+https://www.youtube.com/watch?v=S7oA5C43Rbc
+
 https://www.coursera.org/specializations/deep-learning
 
 course by Prof.Andrew Ng, but for deep learning
@@ -57,6 +66,10 @@ course by Prof.Andrew Ng, but for deep learning
 https://huggingface.co/learn/nlp-course/chapter1/1
 
 course about NLP and transformers
+
+
+
+
 ## Cybersecurity
 
 https://github.com/gracenolan/Notes
