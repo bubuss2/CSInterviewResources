@@ -14,3 +14,13 @@ A gist with preparation for the Facebook Production Engineering interview explai
 books about site reliability engineering from Google, which explains the approach to reliability of complex systems at Google.
 
 [SRE books](https://sre.google/books/)
+
+### Books
+
+Andrew S. Tanenbaum - Modern Operating Systems
+
+an over 1000-page book that goes deeply into the mechanisms in OS's like CPU interrupts, memory...
+
+Andrew S. Tanenbaum - Computer Networks
+
+similar to above, but for computer networks
