@@ -1,4 +1,4 @@
-### Machine Learning Resources
+# Machine Learning Resources
 
 #### Stanford CS229: Machine Learning Course
 A playlist of lectures from Stanford about machine learning, taught by Prof. Andrew Ng
