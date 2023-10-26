@@ -44,7 +44,7 @@ an over 1000-page book that goes deeply into the mechanisms in OS's like CPU int
 Andrew S. Tanenbaum - Computer Networks
 
 similar to above, but for computer networks
-[## Machine Learning](https://github.com/janumiko/CSResources/blob/main/machine-learning.md)
+## [Machine Learning](https://github.com/janumiko/CSResources/blob/main/machine-learning.md)
 
 
 
