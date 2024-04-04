@@ -5,6 +5,10 @@
 A robust online book about deep learning.\
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
+## Dive into Deep Learning
+A over 1000 pages book about deep learning, covering various topics.\
+[Dive into Deep Learning](https://d2l.ai/d2l-en.pdf)
+
 ## More Practical
 ### Practical Deep Learning for coders - FastAI
 Course, more practical course for people with coding experience, about machine learning using Pytorch and FastAI libraries.\
