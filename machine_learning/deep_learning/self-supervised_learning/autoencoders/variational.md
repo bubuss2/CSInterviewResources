@@ -1,5 +1,9 @@
 ## Resources about variational autoencoders
 
+## Original Research Paper with VAEs
+Original paper by Kingma and Welling introducing the method.\
+[Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
+
 ## YT series
 ### KL divergence
 Kullback–Leibler divergence is a measure of how one probability distribution is different from a second.\
